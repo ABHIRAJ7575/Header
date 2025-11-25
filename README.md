@@ -9,13 +9,13 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **abhirajdixit25@@gmail.com**
+- 📫 How to reach me **abhirajdixit25@gmail.com**
 
 - ⚡ Fun fact **I Learn from Projects than tutorials**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/abhiraj-dixit-6aa386313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiraj dixit" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abhiraj dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiraj dixit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
